@@ -1,5 +1,4 @@
-# aspnet-jquery-file-upload
-ASP.NET MVC 5 jQuery File Upload
+# ASP.NET MVC 5 jQuery File Upload
 
 This is my first Github repository!
 
